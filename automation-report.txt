@@ -1,0 +1,8 @@
+DevOps Automation Report
+=========================
+Project: /Users/prasad/devops-automation-demo
+
+Git repository: PASS
+Application file: PASS
+Git working tree: CHANGES FOUND
+Automation completed successfully.
